@@ -53,7 +53,7 @@ export default function Home() {
       className="hover:underline hover:underline-offset-4"
       href="/regulamin"
     >
-      Regulamin
+      Regulamin - test gita
     </a>
   </footer>
 </div>
