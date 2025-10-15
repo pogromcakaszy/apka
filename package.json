@@ -9,10 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@prisma/client": "^6.10.1",
-    "next": "15.3.4",
+    "@prisma/client": "^6.17.1",
+    "next": "^15.5.5",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "webpack": "^5.102.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
